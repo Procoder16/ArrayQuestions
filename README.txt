@@ -1,0 +1,1 @@
+This repository will contain 36 important array questions to clear your concept in the array data structure. The difficulty level of the question will start from basics, then moving on to some easy level problems, followed by medium and hard.
