@@ -1,3 +1,5 @@
+//Longest arithmetic subarray in an array solution added
+
 #include<iostream>
 using namespace std;
 
