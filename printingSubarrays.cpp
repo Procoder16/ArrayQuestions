@@ -1,3 +1,5 @@
+//Printing subarrays line wise
+
 #include<iostream>
 
 using namespace std;
