@@ -1,5 +1,6 @@
-
-#include<bits/stdc++.h>
+//Pair Sum Problem
+#include<iostream>
+#include<algorithm>
 
 using namespace std;
 
