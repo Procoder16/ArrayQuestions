@@ -1,3 +1,5 @@
+//Prime factor using seive erastothenes 
+
 #include<iostream>
 using namespace std;
 
